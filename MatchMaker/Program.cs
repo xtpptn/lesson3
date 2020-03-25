@@ -15,8 +15,7 @@ namespace MatchMaker
             // NEED TO SET FOLDERS CORRECTLY!!
             string inputFolder;
 
-            // NEW COMMENT
-            // NEW TEXT
+            // LOREM IPSUM
 
             string[] input = File.ReadAllLines(@"M:\c\Lesson3\players.csv");
             List<string> players = new List<string>(input);
