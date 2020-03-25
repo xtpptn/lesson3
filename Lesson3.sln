@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classwork", "Classwork\Classwork.csproj", "{FB36E879-D341-4158-9CBD-D66DE30A4DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchMaker", "MatchMaker\MatchMaker.csproj", "{B9A29A13-AAA8-4D2B-A98C-539144E17785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB36E879-D341-4158-9CBD-D66DE30A4DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB36E879-D341-4158-9CBD-D66DE30A4DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB36E879-D341-4158-9CBD-D66DE30A4DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB36E879-D341-4158-9CBD-D66DE30A4DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A29A13-AAA8-4D2B-A98C-539144E17785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A29A13-AAA8-4D2B-A98C-539144E17785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A29A13-AAA8-4D2B-A98C-539144E17785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A29A13-AAA8-4D2B-A98C-539144E17785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F26984-B307-411B-BC12-4E52C4118102}
+	EndGlobalSection
+EndGlobal

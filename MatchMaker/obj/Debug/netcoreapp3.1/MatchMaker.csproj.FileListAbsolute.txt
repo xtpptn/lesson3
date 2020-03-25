@@ -1,0 +1,11 @@
+M:\c\Lesson3\Lesson3\MatchMaker\bin\Debug\netcoreapp3.1\MatchMaker.exe
+M:\c\Lesson3\Lesson3\MatchMaker\bin\Debug\netcoreapp3.1\MatchMaker.deps.json
+M:\c\Lesson3\Lesson3\MatchMaker\bin\Debug\netcoreapp3.1\MatchMaker.runtimeconfig.json
+M:\c\Lesson3\Lesson3\MatchMaker\bin\Debug\netcoreapp3.1\MatchMaker.runtimeconfig.dev.json
+M:\c\Lesson3\Lesson3\MatchMaker\bin\Debug\netcoreapp3.1\MatchMaker.dll
+M:\c\Lesson3\Lesson3\MatchMaker\bin\Debug\netcoreapp3.1\MatchMaker.pdb
+M:\c\Lesson3\Lesson3\MatchMaker\obj\Debug\netcoreapp3.1\MatchMaker.csprojAssemblyReference.cache
+M:\c\Lesson3\Lesson3\MatchMaker\obj\Debug\netcoreapp3.1\MatchMaker.AssemblyInfoInputs.cache
+M:\c\Lesson3\Lesson3\MatchMaker\obj\Debug\netcoreapp3.1\MatchMaker.AssemblyInfo.cs
+M:\c\Lesson3\Lesson3\MatchMaker\obj\Debug\netcoreapp3.1\MatchMaker.dll
+M:\c\Lesson3\Lesson3\MatchMaker\obj\Debug\netcoreapp3.1\MatchMaker.pdb
