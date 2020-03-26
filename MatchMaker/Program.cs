@@ -12,12 +12,13 @@ namespace MatchMaker
             const int teamSize = 5;
             Random random = new Random();
 
-            // NEED TO SET FOLDERS CORRECTLY!!
-            string inputFolder;
+            // SET RESOURCE PATH
+            string projectPath = Directory.GetCurrentDirectory();
+            projectPath = Directory.GetParent(projectPath).Parent.Parent.FullName;
+            projectPath += "\\Resources\\players.csv";
 
-            // LOREM IPSUM
-
-            string[] input = File.ReadAllLines(@"M:\c\Lesson3\players.csv");
+            string[] input = File.ReadAllLines(projectPath);
+            
             List<string> players = new List<string>(input);
 
             List<Hero> heroes = new List<Hero>();
@@ -79,14 +80,9 @@ namespace MatchMaker
                 Console.WriteLine(teamBlue[i].ToString());
             }
 
-        }
+            Console.Write("\nPress any key to terminate the application.");
+            Console.ReadKey();
 
-        static string GetLine(List<string> list, int listIndex)
-        {
-            string listEntry = list[listIndex];
-            list.RemoveAt(listIndex);
-
-            return listEntry;
         }
 
 
